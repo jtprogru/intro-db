@@ -6,8 +6,10 @@ env/
 __pycache__/
 .env
 .vscode/
-FUCKUPS.md
-TODO.md
 *.sqlite
-example.sls
-
+secrets-decrypted/
+.terraform.lock.hcl
+.terraform/
+collections/
+roles/
+logs/
